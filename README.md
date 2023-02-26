@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hola! 👋
 
 <!--
 **CarmenEscrig/CarmenEscrig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Soy Carmen Y. Escrig, una estudiante de Desarrollo de Aplicaciones Web abierta a descubrir y aprender cosas nuevas.
+
+- 📖 Estudio en el IES El Caminas
+- ❤️ Me gusta programar
+- 📧 Mi correo es: carmenescrig.yijiao@gmail.com
